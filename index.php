@@ -5,7 +5,7 @@
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="//www.priceline.com/hotels-in/content/js/date.js"></script>
-    <script src="/content/js/index.js"></script>
+    <script src="/keyboardless-hotels/content/js/index.js"></script>
     
     <style>
     input[type="text"] {

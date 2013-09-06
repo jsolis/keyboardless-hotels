@@ -348,7 +348,7 @@ $(document).ready(function() {
 				document.getElementById('recoStatus').innerHTML=fieldOrder[fieldIndex].text;
 				reco.toggleStartStop();
 			} else {
-                var url = "/index.php/" + $.app.searchInput + "/" + $.app.checkIn + "/" + $.app.checkOut + "/" + $.app.numRooms;
+                var url = "index.php/" + $.app.searchInput + "/" + $.app.checkIn + "/" + $.app.checkOut + "/" + $.app.numRooms;
                 window.location = url;
 			}
 		}
